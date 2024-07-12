@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Мой новый Hugo Site</title>
+    <link>http://localhost:1313/hugo/posts/</link>
+    <description>Recent content in Posts on Мой новый Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 11 Jul 2024 17:33:53 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/hugo/posts/my-first-post/</link>
+      <pubDate>Thu, 11 Jul 2024 17:33:53 +0300</pubDate>
+      <guid>http://localhost:1313/hugo/posts/my-first-post/</guid>
+      <description>Тестовый контент поста в маркдауне мямясмясм&#xA;ясчмясчм&#xA;еще одна запись с немедленной публикацией на локальном сервере dsdSD DDDDDD&#xA;Introduction This is bold text, and this is emphasized text. Visit the Hugo website!&#xA;adadfasd&#xA;Вот последняя добавка в статус драфт фолс Вот последняя добавка в статус драфт тру&#xA;вот еще добавка в драфт еще еще еще</description>
+    </item>
+  </channel>
+</rss>
